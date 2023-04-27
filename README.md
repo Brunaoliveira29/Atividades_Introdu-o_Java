@@ -2,6 +2,6 @@
 Programa de Formação Tech Afro Pretas
 
 Exercicios:
-Coceitos de Variaveis
-Estrutura de decisão
-Estrutura de repetição
+Conceitos de Variaveis;
+Estrutura de decisão;
+Estrutura de repetição.

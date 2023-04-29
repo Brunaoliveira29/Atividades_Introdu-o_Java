@@ -1,9 +1,9 @@
 # Atividades_Introducao_Java
-### Programa de Formação Tech Afro Pretas
+#### Programa de Formação Tech Afro Pretas
 
-Exercicios:
+Exercícios:
 
-Conceitos de Variaveis;
+Conceitos de Variáveis;
 
 Estrutura de Decisão;
 
